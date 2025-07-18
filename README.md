@@ -10,6 +10,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" />
 </p>
 
+
 ---
 
 ### 👩‍💻 About Me
@@ -20,6 +21,11 @@
 - 💡 Projects: Sign Language Converter, Air Quality Monitoring, Hostel Management System  
 - 🚀 I love building real-world solutions that create impact  
 - 📫 Reach me at: maithilipawar25@gmail.com  
+
+---
+<p align="right">
+  <img src="https://github.com/05Maithili/05Maithili/image.gif" alt="Maithili coding" width="300"/>
+</p>
 
 ---
 
@@ -48,9 +54,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=05Maithili&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-<p align="center">✨ Thank you for visiting my profile! ✨<br>Let's build and grow together 🚀</p>
 
 ---
 
@@ -59,4 +62,7 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/maithili-pawar2005/)  
 - 📧 Email: maithilipawar25@gmail.com  
 
+---
+
+<p align="center">✨ Thank you for visiting my profile! ✨<br>Let's build and grow together 🚀</p>
  
