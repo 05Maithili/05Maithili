@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4FA9D7&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;AI%2FML+Honors+Student;IoT+and+Web+Dev+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4FA9D7&center=true&vCenter=true&width=435&lines=AI%2FML+Honors+Student;Computer+Engineering+Student;Data+Science+Explorer;IoT+%7C+Web+Dev+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 - 🌱 Currently learning: Full Stack Development | Machine Learning | IoT  
 - 💡 Projects: Sign Language Converter, Air Quality Monitoring, Hostel Management System  
 - 🚀 I love building real-world solutions that create impact  
-- 📫 Reach me at: maithilipawar@gmail.com  
+- 📫 Reach me at: maithilipawar25@gmail.com  
 
 ---
 
@@ -34,9 +34,7 @@
 ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
 ![Django](https://img.shields.io/badge/Django-092e20?style=flat-square&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=flat-square&logo=espressif&logoColor=white)
+ 
 
 ---
 
