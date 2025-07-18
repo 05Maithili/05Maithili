@@ -24,7 +24,7 @@
 
 ---
 <p align="right">
-  <img src="https://github.com/05Maithili/05Maithili/image.gif" alt="Maithili coding" width="300"/>
+  <img src="https://github.com/05Maithili/05Maithili/main/image.gif" alt="Maithili coding" width="300"/>
 </p>
 
 ---
