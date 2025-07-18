@@ -50,6 +50,10 @@
 
 ---
 
+<p align="center">✨ Thank you for visiting my profile! ✨<br>Let's build and grow together 🚀</p>
+
+---
+
 ### 🌐 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/maithili-pawar2005/)  
