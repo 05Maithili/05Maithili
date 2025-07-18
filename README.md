@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Maithili Pawar
 
-<!--
-**05Maithili/05Maithili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m a 3rd year Computer Engineering student  
+🎯 Pursuing Honors in **Artificial Intelligence and Machine Learning (AILML)**  
+💡 Passionate about technology, coding, and building real-world projects  
+🌱 Currently learning: Full Stack Development | Machine Learning | IoT  
+📂 Projects: Sign Language Converter | Air Quality Monitoring System | Hostel Management System  
+🚀 I love working on innovative solutions that create an impact  
+📫 How to reach me: maithili25@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+- 💻 Languages: C++, Python, Java, JavaScript  
+- 🌐 Web: HTML, CSS, Bootstrap, React, Django  
+- 🔌 IoT & Embedded: Arduino, ESP8266, Sensors (DHT11, MQ135)  
+- 🧠 ML/AI: scikit-learn, OpenCV, TensorFlow (Beginner)  
+- 🛢️ Database: MySQL, Firebase  
+- 🔧 Tools: Git, GitHub, VS Code, Arduino IDE
+
+---
+
+### 📊 GitHub Stats
+
+![Maithili's GitHub stats](https://github-readme-stats.vercel.app/api?username=05Maithili&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=05Maithili&layout=compact&theme=tokyonight)
+
+---
+
+### 🌐 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/maithili-pawar2005/)  
+ 
