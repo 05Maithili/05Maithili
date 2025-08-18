@@ -22,12 +22,7 @@
 - 🚀 I love building real-world solutions that create impact  
 - 📫 Reach me at: maithilipawar25@gmail.com  
 
----
-<p align="right">
-  <img src="https://github.com/05Maithili/05Maithili/blob/main/image.gif" alt="Maithili coding" width="300"/>
-</p>
-
----
+ 
 
 ### 🛠️ Tech Stack
 
